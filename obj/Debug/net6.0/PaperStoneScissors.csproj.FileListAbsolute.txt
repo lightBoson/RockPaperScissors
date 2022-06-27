@@ -1,0 +1,15 @@
+C:\Users\karol\source\repos\PaperStoneScissors\bin\Debug\net6.0\PaperStoneScissors.exe
+C:\Users\karol\source\repos\PaperStoneScissors\bin\Debug\net6.0\PaperStoneScissors.deps.json
+C:\Users\karol\source\repos\PaperStoneScissors\bin\Debug\net6.0\PaperStoneScissors.runtimeconfig.json
+C:\Users\karol\source\repos\PaperStoneScissors\bin\Debug\net6.0\PaperStoneScissors.dll
+C:\Users\karol\source\repos\PaperStoneScissors\bin\Debug\net6.0\PaperStoneScissors.pdb
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\PaperStoneScissors.csproj.AssemblyReference.cache
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\PaperStoneScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\PaperStoneScissors.AssemblyInfoInputs.cache
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\PaperStoneScissors.AssemblyInfo.cs
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\PaperStoneScissors.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\PaperStoneScissors.dll
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\refint\PaperStoneScissors.dll
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\PaperStoneScissors.pdb
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\PaperStoneScissors.genruntimeconfig.cache
+C:\Users\karol\source\repos\PaperStoneScissors\obj\Debug\net6.0\ref\PaperStoneScissors.dll
