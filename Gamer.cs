@@ -12,8 +12,12 @@ namespace PaperStoneScissors
         Computer
     }
 
+    interface IGamer
+    {
+        void introduce();
+    }
 
-    internal class Gamer
+    internal class Gamer : IGamer
     {
         //Atributes 
         private string _name;
@@ -26,6 +30,8 @@ namespace PaperStoneScissors
         public int getBestResult() { return _bestResult;}
         public void setName(string newName) { _name = newName; }
         public GamerType getType() { return _type; }
+
+        public void introduce() { Console.WriteLine("Gamer class"); }
 
         public Answer randomChoice() {
             Random random = new Random();
